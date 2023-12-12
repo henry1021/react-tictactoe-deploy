@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.8545cc00.css","mappings":"AAAA,KACE,0CAA+C,CAC/C,WACF,CAEA,MACE,iBACF","sources":["index.css"],"sourcesContent":["body {\n  font: 14px \"Century Gothic\", Futura, sans-serif;\n  margin: 20px;\n}\n\nol, ul {\n  padding-left: 30px;\n}"],"names":[],"sourceRoot":""}
